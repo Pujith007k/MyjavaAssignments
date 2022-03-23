@@ -21,6 +21,7 @@ public class Virtualkeyprogram {
 			    System.out.print("\u000C");
 		        do {
 		        	choice=0;
+		        	
 			    System.out.println("MAIN MENU");
 			    System.out.println("Select the Options Given Below:");
 			    System.out.println("1. Retrieve All Files inside Main Folder");
